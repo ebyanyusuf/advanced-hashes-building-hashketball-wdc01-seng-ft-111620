@@ -3,7 +3,7 @@ def game_hash(basketball)
  basketball => {
   {:home =>
   {:team_name => "name"},
-  {:colors => [color1, color2 ]}, 
+  {:colors => [color1, color2]}, 
   {:players => [
     {:player_name =>},
     {:number =>},
@@ -18,8 +18,8 @@ def game_hash(basketball)
     }
   }
   {:away =>
-  {:team_name},
-  {:colors},
+  {:team_name => "name"},
+  {:colors => [color1, color2]},
   {:players => [
     {:player_name =>},
     {:number =>},
