@@ -5,15 +5,15 @@ def game_hash(basketball)
   {:team_name => "name"},
   {:colors => [color1, color2]}, 
   {:players => [
-    {:player_name =>},
-    {:number =>},
-    {:shoe =>},
-    {:points =>},
-    {:rebounds =>},
-    {:assists =>},
-    {:steals =>},
-    {:blocks =>},
-    {:slam_dunks =>},
+    :player_name =>,
+    :number =>,
+    :shoe =>,
+    :points =>,
+    :rebounds =>,
+    :assists =>,
+    :steals =>,
+    :blocks =>,
+    :slam_dunks =>,
     ]
     }
   }
@@ -21,15 +21,15 @@ def game_hash(basketball)
   {:team_name => "name"},
   {:colors => [color1, color2]},
   {:players => [
-    {:player_name =>},
-    {:number =>},
-    {:shoe =>},
-    {:points =>},
-    {:rebounds =>},
-    {:assists =>},
-    {:steals =>},
-    {:blocks =>},
-    {:slam_dunks =>},
+    :player_name =>,
+    :number =>,
+    :shoe =>,
+    :points =>,
+    :rebounds =>,
+    :assists =>,
+    :steals =>,
+    :blocks =>,
+    :slam_dunks =>,
     ]}
   }
 }
